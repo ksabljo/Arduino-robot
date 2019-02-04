@@ -1,5 +1,5 @@
 /*
-Parkiranje robota između dviju prepreka kretanjem unatrag korištenjem senzora.
+Parkiranje Arduino robota između dvije prepreke kretanjem unatrag i korištenjem senzora.
 */
 
 #include <ArduinoRobot.h>
