@@ -1,4 +1,5 @@
 /*
+Kod pokrenuti u Arduino programskom jeziku
 Parkiranje Arduino robota između dvije prepreke kretanjem unatrag i korištenjem senzora.
 */
 
